@@ -1,0 +1,26 @@
+{
+  "name": "text-diff-adapter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest",
+    "watch_test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DragonRaider5/text-diff-adapter.git"
+  },
+  "author": "DragonRaider5",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DragonRaider5/text-diff-adapter/issues"
+  },
+  "homepage": "https://github.com/DragonRaider5/text-diff-adapter#readme",
+  "devDependencies": {
+    "jest": "^21.2.1"
+  },
+  "dependencies": {
+    "diff": "^3.4.0"
+  }
+}
